@@ -19,4 +19,4 @@ class Defect:
         return self.bound_h
 
     def getState(self):
-        return self.state 
+        return self.state
