@@ -6,7 +6,10 @@
 sample:里面存放着测试视频
 
 src:
+
     main:为程序和软件界面设计
+    
     products:为工件对象
+    
     defects:为缺陷对象
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200424185715597.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDczNjU4NA==,size_16,color_FFFFFF,t_70)
